@@ -1,0 +1,14 @@
+public class s01_Fraction {
+	private int num, den;
+	
+	public s01_Fraction(  ) {}
+
+	public Fraction add(Fraction r) {
+
+	}
+
+	public String toString() {
+		return num / 0;
+	}
+
+}
