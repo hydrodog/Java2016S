@@ -1,0 +1,11 @@
+import java.awt.*;
+
+public class Test {
+	public static void main(String[] args) {
+		Car c = new Car();
+		System.out.println(c);
+		Car c2 = new Car(55, new Color(255,0,120));
+		System.out.println(c2);
+	}
+}
+		

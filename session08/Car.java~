@@ -1,0 +1,16 @@
+import java.awt.*;
+
+public class Car {
+	private int speed;
+	private Color color;
+
+	public Car(int speed, Color c) { this.speed = speed; color = c; }
+
+	public Car() {
+		this(0, Color.RED);
+	}
+
+	public String toString() {
+		return "I'm a car! speed=" + speed + " color=" + color;
+	}
+}
