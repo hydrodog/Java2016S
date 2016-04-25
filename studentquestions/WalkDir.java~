@@ -1,5 +1,0 @@
-import java.util.*;
-
-public class WalkDir {
-	public static void main(String[] a) {
-		
